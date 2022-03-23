@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: auto
+}
+body{
+	width: 960px;
+	background-color: #5B715E}
+h1{
+	text-align: center;
+	background-color: antiquewhite;
+	height: 50px;
+	padding: 10px;
+	margin-top: 20px;
+}
+h4{
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.hobbies{
+	background-color: antiquewhite;
+	font-size: 18px;
+	line-height: 1.2em;
+	float: left;
+	width: 450px;
+	margin-top: 40px;
+	height: 250px;
+	padding: 10px;
+	border-radius: 15px;
+}
+figure{
+	float: right;
+	width: 450px;
+	height: 275px;
+	margin-top: 40px;
+	text-align: center;
+	border-radius: 15px;
+	color: white;
+}
+.skills{
+	background-color: antiquewhite;
+	font-size: 18px;
+	line-height: 1.2em;
+	float: left;
+	width: 450px;
+	margin-top: 60px;
+	height: 275px;
+	padding: 10px;
+	border-radius: 15px;
+}
+.activities{
+	background-color: antiquewhite;
+	font-size: 18px;
+	line-height: 1.2em;
+	float: right;
+	width: 450px;
+	margin-top: 55px;
+	height: 275px;
+	padding: 10px;
+	border-radius: 15px;
+}
+ul li{
+	padding: 4px 0px;
+}
+footer{
+	margin-top:700px;
+	font-size: 16px;
+	background-color: antiquewhite;
+	height: 30px;
+	text-align: center;
+	padding: 10px;
+}

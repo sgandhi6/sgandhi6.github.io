@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+	body{
+		background-color:#5B715E;
+		width:960px;
+		margin: 0 auto;
+		}
+	h1{
+		padding:10px;
+		margin:0 auto;
+		text-align: center;
+		font-size:40px;
+		line-height:1.2em;
+		font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+		}
+
+	h4{
+		padding:10px;
+		margin:0 auto;
+		text-align: center;
+		font-size:15px;
+		line-height:2em;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		}
+	h3{
+		padding:0px;
+		margin-bottom:0px;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		line-height: .5em;
+		font-size:20px;
+		text-align: left;
+		}
+	ul{
+		padding:0px;
+		margin-left:10px;
+		margin-top:0px;
+		text-align: left;
+		font-size:18px;
+		line-height:.3em;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		}
+
+	li{
+		font-size: 16px;
+		line-height: .5em;
+		font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		width:960px;
+		margin-left:10px;
+		text-align:left;
+		padding:10px;
+		}
+	article{
+		margin-top:10px;
+		background-color: antiquewhite;
+		padding: 20px;
+		border-radius: 15px;
+		}
+	.intro{
+		font-size:17px;
+		text-align: center;
+		}
+	footer{
+	margin-top:20px;
+	font-size: 16px;
+	background-color: antiquewhite;
+	height: 30px;
+	text-align: center;
+	padding: 10px;
+}
